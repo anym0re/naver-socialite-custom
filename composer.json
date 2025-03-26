@@ -1,5 +1,5 @@
 {
-    "name": "socialiteproviders/naver",
+    "name": "anym0re/naver-socialite-custom",
     "description": "Naver OAuth2 Provider for Laravel Socialite",
     "license": "MIT",
     "keywords": [
